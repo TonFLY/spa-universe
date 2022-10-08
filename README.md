@@ -1,5 +1,1 @@
-# SPA-UNIVERSE
-# SPA-UNIVERSE
-# SPA-UNIVERSE
-# SINGLEPAGEAPPLICATION
-# spa-universe
+# Foi feito uma demostração de como funciona o Single Page Application (SPA)
